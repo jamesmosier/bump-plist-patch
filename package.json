@@ -1,9 +1,17 @@
 {
   "name": "bump-plist-patch",
-  "version": "1.0.1",
+  "description": "Update the patch version in your Info.plist file",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "James Mosier",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamez14/bump-plist-patch"
+  },
+  "bugs": {
+    "url": "https://github.com/jamez14/bump-plist-patch/issues"
+  },
   "dependencies": {
     "semver": "5.4.1",
     "simple-plist": "0.2.1"
