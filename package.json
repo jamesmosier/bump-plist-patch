@@ -1,0 +1,15 @@
+{
+  "name": "bump-plist-patch-version",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Mosier",
+  "license": "MIT",
+  "dependencies": {
+    "semver": "5.4.1",
+    "simple-plist": "0.2.1"
+  },
+  "bin": {
+    "bumpv": "index.js"
+  },
+  "preferGlobal": true
+}
