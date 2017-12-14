@@ -1,5 +1,5 @@
 {
-  "name": "bump-plist-patch-version",
+  "name": "bump-plist-patch",
   "version": "1.0.0",
   "main": "index.js",
   "author": "James Mosier",
